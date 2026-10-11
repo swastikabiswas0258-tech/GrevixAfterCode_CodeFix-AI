@@ -1,0 +1,4 @@
+flask>=3.0
+google-genai>=1.0
+python-dotenv>=1.0
+pyflakes>=3.2
